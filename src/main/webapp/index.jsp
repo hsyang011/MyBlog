@@ -8,6 +8,7 @@
 </head>
 <body>
 <script type="text/javascript">
+	// 커밋테스트
 	location.href = "./main/main.do";
 </script>
 </body>
